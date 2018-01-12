@@ -1,0 +1,23 @@
+{
+  "name": "web-rsat",
+  "version": "0.0.0",
+  "description": "Web based Remote Server Administration Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mboom/web-rsat.git"
+  },
+  "keywords": [
+    "rsat",
+    "nodejs"
+  ],
+  "author": "Marco Boom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mboom/web-rsat/issues"
+  },
+  "homepage": "https://github.com/mboom/web-rsat#readme"
+}
